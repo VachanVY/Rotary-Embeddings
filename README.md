@@ -3,8 +3,10 @@
   ![image](https://github.com/user-attachments/assets/e10b2a9d-37d6-467d-b728-7d8f5906a13f)
 * We need the transformation functions above ($f_q$ and $f_k$), such that they satisfy the below equation, the resultant function should encode **relative** position information
   ![image](https://github.com/user-attachments/assets/5d9538aa-d3bf-4c25-b2b8-3d1cd78ceb5f)
-* ![1.png](rope3.png)
-  ![2.png](rope2.png)
+  ![1.png](rope3.png)
+  ![image](https://github.com/user-attachments/assets/8e679770-6483-4cba-b530-36fa5cc90ddc)
+
+* ![2.png](rope2.png)
   ![3.png](rope1.png)
 
 
